@@ -1,0 +1,17 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.wrapBarrita{
+	width: 100%;
+	position: absolute;
+	height: 6px;
+}
+.barrita{
+	height: 100%;
+	position: absolute;
+	background: #5b4b72;
+}
